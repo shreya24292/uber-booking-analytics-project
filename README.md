@@ -1,4 +1,5 @@
 NCR Ride Booking Data Analysis
+
 Project Overview
 The NCR Ride Booking Data Analysis project explores 150,000 ride-booking records from the National Capital Region (NCR) to uncover insights into customer behavior, operational efficiency, revenue performance, cancellation trends, and service quality.
 Using Python, Pandas, NumPy, Matplotlib, Seaborn, and Power BI, this project transforms raw ride-booking data into actionable business insights through data cleaning, exploratory analysis, feature engineering, and interactive dashboards.
